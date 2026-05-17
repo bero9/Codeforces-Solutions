@@ -4,7 +4,7 @@ Willkommen in meinem persönlichen Archiv für Competitive Programming Lösungen
 
 ## 📊 Codeforces Profil
 <!-- Ersetzen Sie YOUR_HANDLE durch Ihren tatsächlichen Codeforces-Benutzernamen -->
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-BERO9_11-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/YOUR_HANDLE)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-BERO9_11-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/BERO9_11)
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to my personal archive of competitive programming solutions. This reposi
 
 ## 📊 Codeforces Profile
 <!-- Replace YOUR_HANDLE with your actual Codeforces username -->
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-BERO9_11-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/YOUR_HANDLE)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-BERO9_11-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/BERO9_11)
 
 ---
 
